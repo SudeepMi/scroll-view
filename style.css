@@ -1,0 +1,16 @@
+body{
+    max-height: 95vh;
+}
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.right{
+    height: 95vh;
+    overflow-y: scroll;
+}
+.left{
+    min-width: 20%;
+}
